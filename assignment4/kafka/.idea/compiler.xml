@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RabbitMQ" />
+        <module name="SuperMarketServer" />
+        <module name="StoreConsumer" />
+        <module name="DBConsumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DBConsumer" target="8" />
+      <module name="RabbitMQ" target="8" />
+      <module name="StoreConsumer" target="11" />
+      <module name="SuperMarketServer" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

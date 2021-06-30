@@ -1,0 +1,10 @@
+tools/PurchaseServlet$HttpMethod.class
+tools/PurchaseServlet.class
+utils/KafkaProducerObject$1.class
+utils/ChannelException.class
+utils/MyPartitioner.class
+model/PurchaseRecord.class
+utils/ChannelFactory.class
+utils/KafkaProducerObject.class
+utils/ChannelPool.class
+utils/RabbitMQClient.class

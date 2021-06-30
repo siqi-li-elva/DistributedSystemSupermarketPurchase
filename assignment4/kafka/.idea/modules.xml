@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DBConsumer/DBConsumer.iml" filepath="$PROJECT_DIR$/DBConsumer/DBConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KafkaBroker/RabbitMQ.iml" filepath="$PROJECT_DIR$/KafkaBroker/RabbitMQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreConsumer/StoreConsumer.iml" filepath="$PROJECT_DIR$/StoreConsumer/StoreConsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SuperMarketServer/SuperMarketServer.iml" filepath="$PROJECT_DIR$/SuperMarketServer/SuperMarketServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kafka.iml" filepath="$PROJECT_DIR$/.idea/kafka.iml" />
+    </modules>
+  </component>
+</project>

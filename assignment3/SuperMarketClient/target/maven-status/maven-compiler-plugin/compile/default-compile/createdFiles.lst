@@ -1,0 +1,8 @@
+part2/Client2.class
+model/LogStderr.class
+part2/ReportGenerator.class
+part2/SingleThread.class
+model/Record.class
+model/CmdParser.class
+part2/RecordWriter.class
+model/HttpMethod.class
